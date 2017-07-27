@@ -1,5 +1,5 @@
 /*
-* this is some of the very first java code that I have ever written.
+* This is some of the very first java code that I have ever written.
 * It uses 9 classes, each with it’s own purpose to preform some 
 * type of calculation. The program uses a menu to select which 
 * calculation to run. user input is taken from UserInput.java. 
@@ -27,7 +27,6 @@ public class Project1 {
         boolean exit = false;	// when the program starts we do not want to exit 
         // messages about program 
         System.out.println("\n" + "---------------------" + "\n");
-        System.out.println("Project 1 From Computer Science 111 at COC");
         System.out.println("Program written in java by Michael James Schmidt");
         System.out.println("Select a function from the menu to run that function.");
 
