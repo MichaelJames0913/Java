@@ -77,7 +77,7 @@ public class Project1 {
         char menuChoice;
         System.out.println("\n" + "---------------------" + "\n");
         System.out.println("***MENU***");
-        System.out.println("(1) CalculateCylinder");
+        System.out.println("(1) Calculate Volume Cylinder");
         System.out.println("(2) CalculateTip");
         System.out.println("(3) ConvertTemp");
         System.out.println("(4) Feet to Meters");

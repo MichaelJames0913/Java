@@ -11,6 +11,7 @@ public class CalculateTip{
         double tip=0.0;
         double total=0.0;
 
+        System.out.println("Calculate Tip");
         System.out.print("Enter Subtotal ");
         subtotal = UserInput.getDouble();
 

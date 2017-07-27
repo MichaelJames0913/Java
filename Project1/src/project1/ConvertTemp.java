@@ -9,6 +9,7 @@ public class ConvertTemp {
         double fahrenheit = 0.0;
         double celsius = 0.0;
 
+        System.out.println("Convert Celsius");
         System.out.print("Enter Celsius : ");
         celsius = UserInput.getDouble();
 
