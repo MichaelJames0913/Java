@@ -35,6 +35,6 @@ this is also a demo of how to create a jar file
 
 	$ java -jar my.jar
 	
-whats great about a jar file is it takes all those classes files and puts them in a nice 
+whats great about a jar file is it takes all those class files and puts them in a nice 
 single executable file that can run from anywhere. 
 -------------------------------------------------------	
