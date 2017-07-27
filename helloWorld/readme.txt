@@ -1,4 +1,4 @@
-My First java Program !!!
+My first java Program !!!
 
 This is not my very first hello world, but what is important about this version is the 	
 organization in the directory, the source file is separate from the class file. A way to 
